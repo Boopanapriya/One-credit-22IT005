@@ -1,0 +1,14 @@
+# Use official Python image
+FROM python:3.9
+
+# Set working directory
+WORKDIR /app
+
+# Copy ml-model.py into the container
+COPY ml-model.py .
+
+# Install dependencies
+RUN pip install scikit-learn joblib
+
+# Run the model script
+CMD ["python", "ml-model.py"]

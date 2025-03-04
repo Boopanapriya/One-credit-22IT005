@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  my_api:
+    image: boopanapriya/22it005-personal-api
+    ports:
+      - "5000:5000"
+
+  friend_api:
+    image: santhiya55/22it044-personal-api
+    ports:
+      - "5001:5000"
