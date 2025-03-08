@@ -50,8 +50,6 @@
 
 ![Screenshot 2025-03-04 143426](https://github.com/user-attachments/assets/1c83d00f-fb10-48cf-8cd1-de750fc8e07d)
 
-![Screenshot 2025-03-03 202217](https://github.com/user-attachments/assets/86e004d0-862f-4cb0-b1d4-22e718393dfe)
-
 
 11)Docker Compose     
 
