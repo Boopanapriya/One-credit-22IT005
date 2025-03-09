@@ -61,12 +61,12 @@
 ![Screenshot 2025-03-09 160944](https://github.com/user-attachments/assets/0d990d7e-d5f6-43ac-9c53-a0148e6eba4c)
 
 
-12)Docker hub repositories       
+13)Docker hub repositories       
 
 ![Screenshot 2025-03-09 161035](https://github.com/user-attachments/assets/b386a279-b5f6-49d3-a653-0e0ff1d41e3d)
 
 
-13)Output screenshots    
+14)Output screenshots    
 
 ![Screenshot 2025-03-04 142036](https://github.com/user-attachments/assets/b03a6f4d-2237-4db9-a16f-821246ce052d)
 
